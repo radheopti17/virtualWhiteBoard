@@ -3,6 +3,7 @@ import cv2
 from collections import deque
 from datetime import datetime
 import os
+
 directory= r'/media/rushikesh/F/Painting-With-Finger-Gestures-master/savedimg'
 flag=1
 # Define the upper and lower boundaries for a color to be considered "Blue"
